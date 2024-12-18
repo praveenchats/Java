@@ -1,4 +1,4 @@
-package Java_Programmes.Two_no;
+package Java_Programmes;
 
 import java.util.Scanner;
 
